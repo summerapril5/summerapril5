@@ -18,5 +18,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=summerapril5&show_icons=true&locale=en&height=245&border_color=2e4058&include_all_commits=true" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerapril5&layout=compact&height=260&border_color=2e4058&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summerapril5&layout=compact&height=280&border_color=2e4058&langs_count=8" />
 </p>
